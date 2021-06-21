@@ -1,0 +1,15 @@
+:root {
+  --interaction-color: #4326C8;
+  --premium-color: #006D49;
+  --light-color: #FFFBF8;
+  --dark-color: #1D1D1D;
+}
+
+body {
+  margin: 0;
+  font-family: 'Work Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: var(--light-color);
+  color: var(--dark-color);
+}
