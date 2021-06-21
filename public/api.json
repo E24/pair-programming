@@ -1,0 +1,29 @@
+
+{
+    "meta": {
+        "disclaimer": "Innholdet i dette dokumentet er fiktivt og er kun for bruk i utvikling av interne tjenester.",
+        "lastUpdated": "2021-06-21"
+    },
+    "articles": [
+        {
+            "title": "– Jeg gikk rett inn i «fight or flight»-modus",
+            "imageAsset": "https://static.e24.no/pair-programming-test/gfx/39b98cbb-7bd6-468c-8b8c-ee62bfa04535.jpg",
+            "articleLink": "https://e24.no/naeringsliv/i/oAOpdj/jeg-gikk-rett-inn-i-fight-or-flight-modus"
+        },
+        {
+            "title": "Kampen mot møllene",
+            "imageAsset": "https://static.e24.no/pair-programming-test/gfx/d350c3a7-0a1e-411d-ba8c-ba2d5fc1e023.jpg",
+            "articleLink": "https://e24.no/det-groenne-skiftet/i/EWdqWG/stormen-paa-oeya-kampen-mot-moellene"
+        },
+        {
+            "title": "Petter Stordalen-selskap tapte i svensk pandemitvist",
+            "imageAsset": "https://static.e24.no/pair-programming-test/gfx/d11d4ff5-e2da-437a-9418-7559c5bb308d.jpg",
+            "articleLink": "https://e24.no/naeringsliv/i/2dza6l/stordalen-tilknyttet-selskap-tapte-i-svensk-pandemitvist"
+        },
+        {
+            "title": "Trehytter er den nye luksus destinasjonen",
+            "imageAsset": "https://static.e24.no/pair-programming-test/gfx/1349e715-dd68-4c88-bb80-57044f49fd70.jpg",
+            "articleLink": "https://e24.no/naeringsliv/i/56dzBK/tek-topper-og-eventyrer-investerer-ny-norsk-campingplattform-verdsettes-til-27-millioner-kroner"
+        }
+    ]
+}
